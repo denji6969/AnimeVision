@@ -10,10 +10,10 @@
     "semanticColors": {
             
         "HEADER_PRIMARY": [
-            "#3A86DD"
+            "#2680E6"
         ],
         "HEADER_SECONDARY": [
-            "#3A86DD"
+            "#2680E6"
         ],
         "TEXT_NORMAL": [
             "#C1DEFF"
@@ -46,7 +46,7 @@
             "#1F1F1F"
         ],
         "BACKGROUND_ACCENT": [
-            "#3A86DD"
+            "#2680E6"
         ],
         "BACKGROUND_FLOATING": [
             "#232323"
@@ -99,8 +99,8 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#3A86DD",
-        "PRIMARY_400": "#3A86DD",
+        "PRIMARY_360": "#2680E6",
+        "PRIMARY_400": "#2680E6",
         "PRIMARY_500": "#235DA0",
         "PRIMARY_600": "#1F1F1F",
         "PRIMARY_630": "#232323",
@@ -108,9 +108,9 @@
         "PRIMARY_700": "#404040",
         "PRIMARY_800": "#212121",
 
-        "BRAND_260": "#3A86DD",
-        "BRAND_360": "#3A86DD",
-        "BRAND_500": "#3A86DD",
+        "BRAND_260": "#2680E6",
+        "BRAND_360": "#2680E6",
+        "BRAND_500": "#2680E6",
         "BRAND_560": "#9AC9FF",
         "WHITE_500": "#9AC9FF",
         "YELLOW_300": "#1875E1",

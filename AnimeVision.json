@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision2",
-    "description": "Natural ClearVision with default Discord Colors",
+    "name": "AnimeVision",
+    "description": "AnimeVision for Vendecord",
     "authors": [
         {
             "name": "fahadamin",
@@ -120,7 +120,7 @@
     "spec": 2,
     "background": {
         "blur": 0.6,
-        "url": "https://raw.githubusercontent.com/Denji6969/VendeVision/main/ClearVision.png",
+        "url": "https://raw.githubusercontent.com/Denji6969/AnimeVision/main/AnimeVision.png",
         "alpha": 0.5,
         "color": "#000000"
     }

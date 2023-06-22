@@ -36,11 +36,8 @@
          "BACKGROUND_PRIMARY": [ 
              "#1F1F1F" 
          ], 
-         "BACKGROUND_SECONDARY": [ 
-             "#162F78" 
-         ], 
          "BACKGROUND_SECONDARY_ALT": [ 
-             "#232323" 
+             "#162F78" 
          ], 
          "BACKGROUND_TERTIARY": [ 
              "#1F1F1F" 

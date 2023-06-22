@@ -25,13 +25,13 @@
              "#526171" 
          ], 
          "BACKGROUND_PRIMARY": [ 
-             "#1F1F1F" 
+             "#162F78" 
          ], 
          "BACKGROUND_SECONDARY_ALT": [ 
              "#05070C" 
          ], 
          "BACKGROUND_TERTIARY": [ 
-             "#1F1F1F" 
+             "#162F78" 
          ], 
          "BACKGROUND_ACCENT": [ 
              "#2680E6" 
@@ -80,7 +80,7 @@
              "#8F9397" 
          ], 
          "CHAT_BACKGROUND": [ 
-             "#1F1F1F" 
+             "#162F78" 
          ] 
      }, 
      "rawColors": { 

@@ -18,9 +18,6 @@
         "INTERACTIVE_NORMAL": [
             "#A1CEFF"
         ],
-        "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
-        ],
         "INTERACTIVE_MUTED": [
             "#526171"
         ],

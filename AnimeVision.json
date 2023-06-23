@@ -37,23 +37,23 @@
              "#2680E6" 
          ], 
          "BACKGROUND_FLOATING": [ 
-             "#0f2157" 
+             "#0e194f" 
          ], 
          "BACKGROUND_MOBILE_PRIMARY": [ 
-             "#0f2157" 
+             "#0e194f" 
          ], 
          "BACKGROUND_MOBILE_SECONDARY": [ 
-             "#0f2157" 
+             "#0e194f" 
          ], 
          "BACKGROUND_NESTED_FLOATING": [ 
-             "#0f2157" 
+             "#0e194f" 
          ], 
   
          "BACKGROUND_MESSAGE_HOVER": [ 
-             "#0f2157" 
+             "#0e194f" 
          ], 
          "BACKGROUND_MODIFIER_HOVER": [ 
-             "#0f2157" 
+             "#0e194f" 
          ], 
          "BACKGROUND_MODIFIER_ACTIVE": [ 
              "#66AAF6" 
@@ -93,8 +93,8 @@
          "PRIMARY_600": "#162F78", 
          "PRIMARY_630": "#0E131A", 
          "PRIMARY_660": "#0E131A", 
-         "PRIMARY_700": "#0f2157", 
-         "PRIMARY_800": "#0f2157", 
+         "PRIMARY_700": "#0e194f", 
+         "PRIMARY_800": "#0e194f", 
   
          "BRAND_260": "#2680E6", 
          "BRAND_360": "#2680E6", 

@@ -55,9 +55,6 @@
          "BACKGROUND_MODIFIER_HOVER": [ 
              "#0e194f" 
          ], 
-         "BACKGROUND_MODIFIER_ACTIVE": [ 
-             "#FFFFFF" 
-         ], 
          "BACKGROUND_MODIFIER_SELECTED": [ 
              "#2677D3" 
          ], 

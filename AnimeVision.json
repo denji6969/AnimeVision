@@ -25,13 +25,13 @@
              "#526171" 
          ], 
          "BACKGROUND_PRIMARY": [ 
-             "#030818" 
+             "#0e194f" 
          ], 
          "BACKGROUND_SECONDARY_ALT": [ 
              "#0e194f" 
          ], 
          "BACKGROUND_TERTIARY": [ 
-             "#030818" 
+             "#0e194f" 
          ], 
          "BACKGROUND_ACCENT": [ 
              "#2680E6" 
@@ -68,10 +68,10 @@
              "#8F9397" 
          ], 
          "TEXT_DANGER": [ 
-             "#DE3538" 
+             "#f23f43" 
          ], 
          "KEYBOARD": [ 
-             "#030818" 
+             "#0e194f" 
          ], 
          "CHANNEL_ICON": [ 
              "#8F9397" 
@@ -87,7 +87,7 @@
          "PRIMARY_360": "#2680E6", 
          "PRIMARY_400": "#2680E6", 
          "PRIMARY_500": "#235DA0", 
-         "PRIMARY_600": "#030818", 
+         "PRIMARY_600": "#0e194f", 
          "PRIMARY_630": "#0e194f", 
          "PRIMARY_660": "#0e194f", 
          "PRIMARY_700": "#0e194f", 
@@ -100,7 +100,7 @@
          "WHITE_500": "#FDFFFE", 
          "YELLOW_300": "#F0B232", 
          "GREEN_360": "#2680E6", 
-         "RED_400": "#2161A9" 
+         "RED_400": "#f23f43" 
      }, 
      "spec": 2, 
      "background": { 

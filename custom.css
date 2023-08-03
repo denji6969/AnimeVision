@@ -34,4 +34,6 @@ div [aria-label="Create Thread"] {
 }
 
 /* Badges double row on small screens fix */
-@import url(//raw.githubusercontent.com/lumap/css-snippets/main/double-row-badges-fix.css);
+.container-1gYwHN:not(:empty) {
+  min-height: unset;
+}

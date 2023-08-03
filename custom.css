@@ -1,0 +1,44 @@
+[data-list-id="guildsnav"] > [dir="ltr"] > :nth-last-child(3),
+[data-list-id="guildsnav"] > [dir="ltr"] > :nth-last-child(2) {
+  display: none;
+}
+
+/*Disabling Library & Nitro & Birthday Buttons on DM*/ .privateChannels-oVe7HL [href="/store"],[href="/library"],[href="/activities"] { display: none; }
+
+div.container-2giAcK:has(div.progressBarContainer-1efroK) { display: none; }
+
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+
+[data-list-item-id="guildsnav___home"]>.childWrapper-1j_1ub {
+  background: url("https://cdn.discordapp.com/attachments/1116020471280959619/1131309366088315070/homeicon.png") center/cover;
+}
+.homeIcon-r0w4ny {
+  display: none;
+}
+
+[class*="standardSidebarView-"] [class*="contentColumn-"] {
+  max-width: 100%;
+}
+[class*="standardSidebarView-"] [class*="sidebarRegion-"] {
+  flex: 0;
+}
+
+[class^="upsellVisible-"], /* Hide Banner Nitro Upsell Header */
+[class^="premiumIconWrapper"], /* Hide Nitro Icon on Banners */
+[class^="characterCount-"] [class*="upsell-"], /* "Send longer Messages with Discord Nitro!" */
+[class^="emojiSection-"] [class*="shinyButton-"] /* "Get Nitro" button in Emoji/Sticker modal" */
+{
+    display: none !important;
+}
+
+.threadSuggestionBar-3ExSyc {
+    display: none;
+}
+div [aria-label="Create Thread"] {
+    display: none !important;
+}
+
+/* Badges double row on small screens fix */
+@import url(//raw.githubusercontent.com/lumap/css-snippets/main/double-row-badges-fix.css);

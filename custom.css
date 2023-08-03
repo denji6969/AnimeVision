@@ -11,13 +11,6 @@ div.container-2giAcK:has(div.progressBarContainer-1efroK) { display: none; }
     -webkit-tap-highlight-color: transparent;
 }
 
-[data-list-item-id="guildsnav___home"]>.childWrapper-1j_1ub {
-  background: url("https://cdn.discordapp.com/attachments/1116020471280959619/1131309366088315070/homeicon.png") center/cover;
-}
-.homeIcon-r0w4ny {
-  display: none;
-}
-
 [class*="standardSidebarView-"] [class*="contentColumn-"] {
   max-width: 100%;
 }

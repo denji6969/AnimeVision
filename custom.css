@@ -35,14 +35,7 @@ div [aria-label="Create Thread"] {
   min-height: unset;
 }
 
-/*
- * @name Hide Nitro Upselling
- * @description Hide all Nitro upselling
- * @author Vendicated, msm8916, D3SOX
- * @version 1.0
-*/
-
-// Hide Nitro upselling (by Vendicated & msm8916)
+/*Hide Nitro upselling (by Vendicated & msm8916)*/
 [class^="channel-"] > div > [href="/store"], // Nitro Button above DM List
 [class^="channelTextArea"] [class^="buttons-"] > button, // Gift Button
 [class^="upsellVisible-"], // Banner Nitro Upsell Header in the user modal
@@ -60,7 +53,7 @@ div [aria-label="Create Thread"] {
   display: none !important;
 }
 
-// My additions
+/* My additions*/
 [class^="premiumTab"], // Nitro settings tab
 #user-settings-cog-Discord_Nitro, // Nitro settings right click entry
 #user-settings-cog-Billing, // Billing settings right click entry
@@ -85,12 +78,12 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 {
   display: none !important;
 }
-// Disable Nitro button in custom emotes popup when emote is not available
+/* Disable Nitro button in custom emotes popup when emote is not available*/
 [class^="emojiSection"] > div > div > div > a {
   color: inherit;
   pointer-events: none;
 }
-// Disable clicking on super reactions
+/* Disable clicking on super reactions*/
 [class^="reactionInner"][aria-label*="burst react"] {
     pointer-events: none;
 }

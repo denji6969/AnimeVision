@@ -44,7 +44,6 @@ div.container-2giAcK:has(div.progressBarContainer-1efroK) {
 [class^="premiumIconWrapper"], /* Nitro Icon in top right on Banners*/
 [class^="characterCount-"] [class*="upsell-"], /* "Send longer Messages with Discord Nitro!" */
 [class^="emojiSection-"] [class*="shinyButton-"], /* "Get Nitro" button in Emoji/Sticker modal" */
-[class^="customizationSection-"][class*="disabled-"], /* Per server profile customizations*/
 [class*="bannerNitroUpsell-"], /* "Unlock Banner" in profile editor*/
 [class^="imageUploaderHint-"],
 [class^="imagePickerContainer-"] > [class^="optionBox-"]:nth-child(2) /* Remove gif option from profile pic upload option*/

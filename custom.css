@@ -7,8 +7,6 @@
 /*Disabling Library & Nitro & Birthday Buttons on DM*/ 
 .privateChannels-oVe7HL [href="/store"],[href="/library"],[href="/activities"] { display: none; }
 
-div.container-2giAcK:has(div.progressBarContainer-1efroK) { display: none; }
-
 /*Remove Blue Highlight thing on touch*/
 * {
     -webkit-tap-highlight-color: transparent;
@@ -35,15 +33,18 @@ div [aria-label="Create Thread"] {
   min-height: unset;
 }
 
+/* remove boost status goal bar */
+div.container-2giAcK:has(div.progressBarContainer-1efroK) {
+  display: none; 
+}
+
 /*Hide Nitro upselling (by Vendicated & msm8916)*/
-[class^="channel-"] > div > [href="/store"], /* Nitro Button above DM List*/
 [class^="channelTextArea"] [class^="buttons-"] > button, /* Gift Button*/
 [class^="upsellVisible-"], /* Banner Nitro Upsell Header in the user modal*/
 [class^="premiumIconWrapper"], /* Nitro Icon in top right on Banners*/
 [class^="characterCount-"] [class*="upsell-"], /* "Send longer Messages with Discord Nitro!" */
 [class^="emojiSection-"] [class*="shinyButton-"], /* "Get Nitro" button in Emoji/Sticker modal" */
-[class*="tryItOutSection-"], /* try nitro banner section on profile editor*/
-[class^="premiumIcon"], /* Try remove booster badge*/
+[class*="tryItOutSection-"], /* try nitro banner section on profile editor */
 [class^="customizationSection-"] + [class^="upsellContainer-"], /* Per server profile customizations */
 [class^="customizationSection-"][class*="disabled-"], /* Per server profile customizations*/
 [class*="bannerNitroUpsell-"], /* "Unlock Banner" in profile editor*/
@@ -68,11 +69,6 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 [class^="birthdayFeatureBorder"], /* Birthday avatar decoration upselling */
 [class^="sidebar"] > [class^="container"] > [class^="wrapper"] > [class^="container"] > [class^="content"], /* Nitro upselling above profile (e.g. super reactions) */
 [class^="themeEditor"], /* Nitro theme upselling */
-[class*="cozyMessage"] > [class*="buttonContainer"] > [class*="buttons"] > [class*="wrapper"] > [aria-label*="Add Super Reaction"], /* Message Hover menu super reactions */
-[id^="popout"] [class*="colorPremiumGradient"], /* Message Hover overflow menu super reactions */
-#message [class*="colorPremiumGradient"], /* Message right click menu super reactions */
-[class^="burstReactionTooltipPrompt"], /* Super reaction tooltip Nitro upsell */
-[aria-label="Add Super Reaction"], /* Message hover add super reaction icon */
 [class^="side-"] > [class^="header-"] + [class^="premiumTab"] + [class^="item-"] + [class^="item-"] + [class^="item-"] + [class^="item-"], /* Settings billing tab */
 #emoji-picker-tab-panel > [class*="emojiPickerHeader"]:first-child > [class^="tooltipContainer"]:nth-child(2) /* Nitro call screen reactions */
 {
@@ -82,8 +78,4 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 [class^="emojiSection"] > div > div > div > a {
   color: inherit;
   pointer-events: none;
-}
-/* Disable clicking on super reactions*/
-[class^="reactionInner"][aria-label*="burst react"] {
-    pointer-events: none;
 }

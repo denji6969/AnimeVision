@@ -24,6 +24,10 @@
     -webkit-tap-highlight-color: transparent;
 }
 
+/* Re-round Spotify Status Images */
+.assetsLargeImageSpotify-17ME3M{border-radius:8px;}
+.largeImage-2EIggm{border-radius:4px !important;}
+
 /* Wide settings */
 [class*="standardSidebarView-"] [class*="contentColumn-"] {
   max-width: 100%;

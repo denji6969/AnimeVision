@@ -79,7 +79,7 @@
          "CHAT_BACKGROUND": [ 
              "#030818" 
          ],
-         "CARD_PRIMARY_BG": [
+         "CARD_SECONDARY_BG": [
              "#2680E6"
          ] 
      }, 

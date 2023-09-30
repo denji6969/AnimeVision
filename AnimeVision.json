@@ -78,10 +78,7 @@
          ], 
          "CHAT_BACKGROUND": [ 
              "#030818" 
-         ],
-         "CARD_SECONDARY_BG": [
-             "#2680E6"
-         ] 
+         ]
      }, 
      "rawColors": { 
          "PRIMARY_100": "#FFFFFF", 

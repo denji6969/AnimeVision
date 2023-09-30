@@ -78,6 +78,9 @@
          ], 
          "CHAT_BACKGROUND": [ 
              "#030818" 
+         ],
+         "ACTIVITY_CARD_BACKGROUND": [
+             "#2680E6"
          ] 
      }, 
      "rawColors": { 

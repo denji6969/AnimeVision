@@ -63,6 +63,12 @@
          ], 
          "CHANNELTEXTAREA_BACKGROUND": [ 
              "#a4a4a4" 
+         ],
+         "DEPRECATED_CARD_BG": [
+             "#0a2848"
+         ],
+         "DEPRECATED_CARD_EDITABLE_BG": [
+             "#0a2848"
          ], 
          "CHANNELS_DEFAULT": [ 
              "#8F9397" 
@@ -78,9 +84,6 @@
          ], 
          "CHAT_BACKGROUND": [ 
              "#030818" 
-         ],
-         "CARD_PRIMARY_BG": [
-             "#2680E6"
          ]
      }, 
      "rawColors": { 

@@ -104,11 +104,16 @@
          "GREEN_360": "#2680E6", 
          "RED_400": "#2161A9" 
      }, 
-     "spec": 2, 
-     "background": { 
-         "blur": 0.6, 
-         "url": "https://raw.githubusercontent.com/denji6969/AnimeVision/main/AnimeVisionDark.png", 
-         "alpha": 0.5, 
-         "color": "#000000" 
-     } 
- }
+     "spec": 2,
+    "background": {
+      "blur": 0.6,
+      "url": "https://raw.githubusercontent.com/denji6969/AnimeVision/main/AnimeVisionDark.png",
+      "alpha": 0.5,
+      "color": "#000000"
+  
+    },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
+}

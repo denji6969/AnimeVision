@@ -1,5 +1,5 @@
 { 
-     "name": "AnimeVision+1", 
+     "name": "AnimeVision+", 
      "description": "AnimeVisionPlus Theme for Vendecord with Themes+ Support.", 
      "authors": [ 
          { 
@@ -48,7 +48,6 @@
          "BACKGROUND_NESTED_FLOATING": [ 
              "#0f1530" 
          ], 
-  
          "BACKGROUND_MESSAGE_HOVER": [ 
              "#2677d3" 
          ], 

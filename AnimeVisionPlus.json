@@ -116,12 +116,12 @@
         "version":"0",
         "iconpack":"rosiecord-plumpy",
         "icons": {
-           "StatusStreaming": "#B48EAD",
-           "StatusMobileOnline": "#24A559",
-           "StatusIdle": "#EEB236",
-           "StatusDND": "#E8444A",
-           "StatusOffline": "#4C566A",
-           "StatusOnline": "#24A559"
+           "StatusStreaming": "#593596",
+           "StatusMobileOnline": "#3CA45D",
+           "StatusIdle": "#F8A61A",
+           "StatusDND": "#F04847",
+           "StatusOffline": "#737F8D",
+           "StatusOnline": "#3CA45D"
         }
     }
 }

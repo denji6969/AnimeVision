@@ -3,7 +3,7 @@
      "description": "AnimeVisionPlus Theme for Vendecord with Themes+ Support.", 
      "authors": [ 
          { 
-             "name": "fahadamin", 
+             "name": "@fahadamin", 
              "id": "480597598953275424" 
          } 
      ], 
@@ -114,6 +114,14 @@
     },
     "plus":{
         "version":"0",
-        "iconpack":"rosiecord-plumpy"
+        "iconpack":"rosiecord-plumpy",
+        "icons": {
+           "StatusStreaming": "#B48EAD",
+           "StatusMobileOnline": "#24A559",
+           "StatusIdle": "#EEB236",
+           "StatusDND": "#E8444A",
+           "StatusOffline": "#4C566A",
+           "StatusOnline": "#24A559"
+        }
     }
 }

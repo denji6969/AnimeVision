@@ -1,5 +1,5 @@
 { 
-     "name": "AnimeVision+", 
+     "name": "AnimeVision+1", 
      "description": "AnimeVisionPlus Theme for Vendecord with Themes+ Support.", 
      "authors": [ 
          { 
@@ -116,8 +116,11 @@
         "version":"0",
         "iconpack":"rosiecord-plumpy",
         "icons": {
+           "StatusStreaming": "#6f30db",
            "StatusMobileOnline": "#00FF00",
-           "StatusIdle": "#FFEE00",
+           "StatusIdle": "#FFA000",
+           "StatusDND": "#FF0000",
+           "StatusOffline": "#737F8D",
            "StatusOnline": "#00FF00"
         }
     }

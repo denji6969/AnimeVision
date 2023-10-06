@@ -1,6 +1,6 @@
 { 
-     "name": "AnimeVision+", 
-     "description": "AnimeVisionPlus Theme for Vendecord with Themes+ Support.", 
+     "name": "AnimeVisionTabsV2", 
+     "description": "AnimeVisionTabsV2 Theme for Vendecord Tabs V2 UI.", 
      "authors": [ 
          { 
              "name": "@fahadamin", 
@@ -35,9 +35,6 @@
          ], 
          "BACKGROUND_ACCENT": [ 
              "#2680E6" 
-         ], 
-         "BACKGROUND_FLOATING": [ 
-             "#101a45" 
          ], 
          "BACKGROUND_MOBILE_PRIMARY": [ 
              "#0e163b" 

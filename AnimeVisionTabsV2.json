@@ -1,5 +1,5 @@
 {
-  "name": "sjsjjssnnsAnimeVision TabsV2",
+  "name": "sjnsAnimeVision TabsV2",
   "version": "1.0.2",
   "description": "AnimeVision TabsV2 Theme for Vendecord Tabs V2 UI.",
   "authors": [
@@ -17,20 +17,17 @@
     "BACKGROUND_SECONDARY": ["#0e163b", "#0f1530", "#00FF00"],
     "BACKGROUND_SECONDARY_ALT": ["#0e194f", "#0e194f", "#0e194f"],
     "BACKGROUND_TERTIARY": ["#111c4d", "#111c4d", "#111c4d"],
-    "BACKGROUND_ACCENT": ["#2680E6", "#00FF00", "#2680E6"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#0e163b", "#0e163b", "#0e163b"],
+    "BACKGROUND_ACCENT": ["#2680E6", "#2680E6", "#2680E6"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00FF00", "#0e163b", "#0e163b"],
     "BACKGROUND_MOBILE_SECONDARY": ["#0f1530", "#0f1530", "#0f1530"],
     "BACKGROUND_MESSAGE_HOVER": ["2677d3"],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
-      "hsla(214, 9.9%, 50.4%, 0.08)"
-    ],
+    "BACKGROUND_MODIFIER_HOVER": ["2677d3"],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "rgba(255, 255, 255, 0.03)",
       "rgba(139, 116, 139, 0.16)"
     ],
-    "BACKGROUND_MODIFIER_SELECTED": ["#5f5edd", "hsla(214, 9.9%, 50.4%, 0.24)"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#14141f", "hsla(240, 7.7%, 2.5%, 0.08)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#2677d3"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#145eb3"],
     "SCROLLBAR_THIN_THUMB": ["#45475a", "hsla(217, 7.6%, 33.5%, 0.3)"],
     "SCROLLBAR_AUTO_THUMB": ["#979BF6"],
     "INTERACTIVE_NORMAL": ["#A1CEFF"],

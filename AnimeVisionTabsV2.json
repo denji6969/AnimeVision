@@ -1,6 +1,6 @@
 {
-  "name": "AnimeVision TabsV2",
-  "version": "1.5.0",
+  "name": "AnimeVision Alpha",
+  "version": "2.0.0",
   "description": "AnimeVision TabsV2 Theme for Vendecord Tabs V2 UI.",
   "authors": [
     {
@@ -37,11 +37,18 @@
     "CARD_SECONDARY_BG": ["#0e163b"]
   },
   "rawColors": {
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_600": "#081240",
-    "PRIMARY_630": "#0f1530",
-    "PRIMARY_660": "#0f1530",
-    "PRIMARY_700": "#0f1530",
+    "PRIMARY_100": "#FFFFFF", 
+    "PRIMARY_200": "#FFFFFF", 
+    "PRIMARY_300": "#FFFFFF", 
+    "PRIMARY_360": "#2680E6", 
+    "PRIMARY_400": "#2680E6",
+    "PRIMARY_460": "#0a5ebf", 
+    "PRIMARY_500": "#235DA0",
+    "PRIMARY_560": "#0f1530", 
+    "PRIMARY_600": "#081240", 
+    "PRIMARY_630": "#0f1530", 
+    "PRIMARY_660": "#0f1530", 
+    "PRIMARY_700": "#0f1530", 
     "PRIMARY_800": "#0e194f",
     "BRAND_260": "#bcc1f9",
     "BRAND_360": "#2680E6",

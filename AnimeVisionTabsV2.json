@@ -22,6 +22,7 @@
     "BACKGROUND_MODIFIER_HOVER": ["2677d3", "2677d3", "2677d3"],
     "BACKGROUND_MODIFIER_SELECTED": ["#2677d3", "#2677d3", "#2677d3"],
     "BACKGROUND_MODIFIER_ACCENT": ["#145eb3", "#145eb3", "#145eb3"],
+    "BACKGROUND_MENTION": ["#2680E6"],
     "INTERACTIVE_NORMAL": ["#A1CEFF", "#A1CEFF", "#A1CEFF"],
     "INTERACTIVE_HOVER": ["#2680E6", "#2680E6", "#2680E6"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
@@ -33,7 +34,6 @@
     "SPOILER_HIDDEN_BACKGROUND": ["#0e163b", "#0e163b", "#0e163b"],
     "TEXT_DANGER": ["#f23f43", "#f23f43", "#f23f43"],
     "TEXT_LINK": ["#459DFF", "#459DFF", "#459DFF"],
-    "CARD_GRADIENT_BG": ["00FF00"],
     "CARD_PRIMARY_BG": ["#071240", "#071240", "#071240"],
     "CARD_PRIMARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_BG": ["#0f1530", "#0f1530", "#0f1530"],
@@ -60,7 +60,8 @@
     "GREEN_360": "#2680E6",
     "RED_400": "#2161A9",
     "YELLOW_300": "#2680E6",
-    "WHITE_500": "#FDFFFE"
+    "WHITE_500": "#FDFFFE",
+    "BLACK_500": "#101a45"
   },
   "plus": {
     "version": "0",

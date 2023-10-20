@@ -1,5 +1,5 @@
 {
-  "name": "AnimeVision Tabv2",
+  "name": "A??nimeVision Tabv2",
   "version": "2.0.0",
   "description": "AnimeVision TabsV2 Theme for Vendecord Tabs V2 UI.",
   "authors": [
@@ -29,11 +29,11 @@
     "CHANNEL_ICON": ["#8F9397"],
     "ACTIVITY_CARD_BACKGROUND": ["#130a2e"],
     "CHANNELS_DEFAULT": ["#8F9397"],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#071240"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#9AC9FF"],
     "SPOILER_HIDDEN_BACKGROUND": ["#0e163b"],
     "TEXT_DANGER": ["#f23f43"],
     "TEXT_LINK": ["#459DFF"],
-    "CARD_PRIMARY_BG": ["#9AC9FF"],
+    "CARD_PRIMARY_BG": ["#071240"],
     "CARD_SECONDARY_BG": ["#0e163b"]
   },
   "rawColors": {

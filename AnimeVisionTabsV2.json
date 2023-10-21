@@ -1,5 +1,5 @@
 {
-  "name": "8AnimeVision Tabv2",
+  "name": "9AnimeVision Tabv2",
   "version": "3.5.0",
   "description": "AnimeVision TabsV2 Theme for Vendecord Tabs V2 UI.",
   "authors": [
@@ -15,7 +15,7 @@
     "BACKGROUND_SECONDARY_ALT": ["#0e194f", "#0e194f", "#0e194f"],
     "BACKGROUND_TERTIARY": ["#111c4d", "#111c4d", "#111c4d"],
     "BACKGROUND_ACCENT": ["#2680E6", "#2680E6", "#2680E6"],
-    "BACKGROUND_FLOATING": ["#101a45", "101a45", "101a45"],
+    "BACKGROUND_FLOATING": ["#111214", "111214", "101a45"],
     "BACKGROUND_MOBILE_PRIMARY": ["#0e163b", "#0e163b", "#0e163b"],
     "BACKGROUND_MOBILE_SECONDARY": ["#0f1530", "#0f1530", "#0f1530"],
     "BACKGROUND_MESSAGE_HOVER": ["2677d3", "2677d3", "2677d3"],

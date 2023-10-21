@@ -1,6 +1,6 @@
 { 
      "name": "AnimeVision",
-     "version": "3.3.0",
+     "version": "3.4.0",
      "description": "AnimeVision Theme for Vendecord.", 
      "authors": [ 
        { 
@@ -66,4 +66,16 @@
          "color": "#000000"
        },
        "spec": 2
-     }
+     },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy",
+        "icons": {
+           "StatusStreaming": "#6f30db",
+           "StatusMobileOnline": "#00FF00",
+           "StatusIdle": "#FFA000",
+           "StatusDND": "#FF0000",
+           "StatusOffline": "#737F8D",
+           "StatusOnline": "#00FF00"
+        }
+    }

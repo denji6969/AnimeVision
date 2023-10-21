@@ -71,7 +71,6 @@
     "customOverlays": true,
     "iconpack": "rosiecord-plumpy",
     "icons": {
-      "ic_new_pins": "#634fff",
       "StatusStreaming": "#6f30db",
       "StatusMobileOnline": "#00FF00",
       "StatusIdle": "#FFA000",

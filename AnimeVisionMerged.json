@@ -1,5 +1,5 @@
 {
-  "name": "AnimeVision",
+  "name": "bestAnimeVision",
   "version": "3.5.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
@@ -42,13 +42,13 @@
     "CARD_SECONDARY_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_PRESSED_BG": ["#0f1530", "#0f1530", "#0f1530"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#5a9de6"],
-    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND" ["#A1CEFF"],
-    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#A1CEFF"]
+    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#A1CEFF"],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#A1CEFF"],
+    "BG_BACKDROP": ["transparent"]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF", 
     "PRIMARY_200": "#FFFFFF",
-    "PRIMARY_230": "#A1CEFF",
     "PRIMARY_300": "#FFFFFF", 
     "PRIMARY_360": "#2680E6", 
     "PRIMARY_400": "#2680E6",

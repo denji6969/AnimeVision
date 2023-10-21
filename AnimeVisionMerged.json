@@ -40,7 +40,8 @@
     "CARD_PRIMARY_BG": ["#071240", "#071240", "#071240"],
     "CARD_PRIMARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_BG": ["#1a234e", "#1a234e", "#1a234e"],
-    "CARD_SECONDARY_PRESSED_BG": ["#0f1530", "#0f1530", "#0f1530"]
+    "CARD_SECONDARY_PRESSED_BG": ["#0f1530", "#0f1530", "#0f1530"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#5a9de6"]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF", 
@@ -48,7 +49,7 @@
     "PRIMARY_300": "#FFFFFF", 
     "PRIMARY_360": "#2680E6", 
     "PRIMARY_400": "#2680E6",
-    "PRIMARY_460": "#0a5ebf", 
+    "PRIMARY_460": "#5a9de6", 
     "PRIMARY_500": "#235DA0",
     "PRIMARY_560": "#1a234e", 
     "PRIMARY_600": "#081240", 

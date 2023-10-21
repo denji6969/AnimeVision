@@ -1,5 +1,5 @@
 {
-  "name": "5AnimeVision",
+  "name": "djjsAnimeVision",
   "version": "3.5.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
@@ -44,7 +44,7 @@
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#1a234e"],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#0f1530"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0e194f"],
-    "BG_BACKDROP": ["#B9111C4D"]
+    "BG_BACKDROP": ["#1A2680E6"]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF", 

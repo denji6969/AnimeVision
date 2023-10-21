@@ -1,5 +1,5 @@
 {
-  "name": "10AnimeVision Tabv2",
+  "name": "11AnimeVision Tabv2",
   "version": "3.5.0",
   "description": "AnimeVision TabsV2 Theme for Vendecord Tabs V2 UI.",
   "authors": [
@@ -66,7 +66,7 @@
   "plus": {
     "version": "0",
     "customOverlays": true,
-    "iconpack": "md3",
+    "iconpack": "rosiecord-iconsax",
     "icons": {
       "ic_new_pins": "#634fff",
       "StatusStreaming": "#6f30db",

@@ -31,7 +31,8 @@
         "TEXT_DANGER": ["#f23f43"],
         "KEYBOARD": ["#081240"],
         "CHANNEL_ICON": ["#8F9397"],
-        "CHAT_BACKGROUND": ["#030818"]
+        "CHAT_BACKGROUND": ["#030818"],
+        "CARD_SECONDARY_PRESSED_BG": ["#0f1530"]
         
        }, 
        "rawColors": { 

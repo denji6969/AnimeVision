@@ -37,7 +37,7 @@
     "TEXT_DANGER": ["#f23f43", "#f23f43", "#f23f43"],
     "TEXT_LINK": ["#459DFF", "#459DFF", "#459DFF"],
     "KEYBOARD": ["#081240"],
-    "CARD_PRIMARY_BG": ["#071240", "#071240", "#071240"],
+    "CARD_PRIMARY_BG": ["#1a234e", "#071240", "#071240"],
     "CARD_PRIMARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_PRESSED_BG": ["#0f1530", "#0f1530", "#0f1530"]

@@ -1,5 +1,5 @@
 {
-  "name": "555AnimeVision Tabv2",
+  "name": "AnimeVision Tabv2",
   "version": "3.5.0",
   "description": "AnimeVision TabsV2 Theme for Vendecord Tabs V2 UI.",
   "authors": [
@@ -36,8 +36,8 @@
     "TEXT_LINK": ["#459DFF", "#459DFF", "#459DFF"],
     "CARD_PRIMARY_BG": ["#071240", "#071240", "#071240"],
     "CARD_PRIMARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"],
-    "CARD_SECONDARY_BG": ["#0f1530", "#0f1530", "#0f1530"],
-    "CARD_SECONDARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"]
+    "CARD_SECONDARY_BG": ["#1a234e", "#1a234e", "#1a234e"],
+    "CARD_SECONDARY_PRESSED_BG": ["#0f1530", "#0f1530", "#0f1530"]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF", 

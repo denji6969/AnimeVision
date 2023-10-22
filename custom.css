@@ -208,3 +208,8 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 .userPopoutOuter-1OHwPL.userProfileOuterThemed-2BgJCM .avatarWrapper-eenWra {
     left: 18px;
 }
+
+/*User Popout fix*/
+.userPopoutOverlayBackground-3A0Pcz {
+  max-height: 60vh;
+}

@@ -1,5 +1,5 @@
 {
-  "name": "-?AnimeVision",
+  "name": "1AnimeVision",
   "version": "3.5.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
@@ -55,8 +55,9 @@
     "PRIMARY_460": "#1a234e", 
     "PRIMARY_500": "#235DA0",
     "PRIMARY_560": "#1a234e", 
-    "PRIMARY_600": "#081240", 
-    "PRIMARY_630": "#0f1530", 
+    "PRIMARY_600": "#081240",
+    "PRIMARY_630": "#0f1530",
+    "PRIMARY_645": "#00FF00",
     "PRIMARY_660": "#0f1530", 
     "PRIMARY_700": "#0f1530", 
     "PRIMARY_800": "#0e194f",

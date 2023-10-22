@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "TEXT_MUTED": ["#8294A8", "#8294A8", "#8294A8"],
-    "TEXT_DANGER": ["#f23f43", "#f23f43", "#f23f43"],
+    "TEXT_DANGER": ["#2161A9", "#2161A9", "#2161A9"],
     "TEXT_LINK": ["#459DFF", "#459DFF", "#459DFF"],
     "BG_BACKDROP": ["#0712407F"],
     "BACKGROUND_PRIMARY": ["#081240", "#081240", "#081240"],

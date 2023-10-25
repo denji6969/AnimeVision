@@ -1,5 +1,5 @@
 {
-  "name": "(2)AnimeVision Test",
+  "name": "(3)AnimeVision Test",
   "version": "3.5.0",
   "description": "A Testing version of Dark Blue theme for vendetta with rosiecord-iconsax icon pack.",
   "authors": [
@@ -49,7 +49,8 @@
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#1a234e"],
     "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": ["#0f1530"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0e194f"],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#2680E6"]
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#2680E6"],
+    "BORDER_FAINT": ["#ff5500"]
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF", 

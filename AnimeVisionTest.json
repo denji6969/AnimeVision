@@ -1,5 +1,5 @@
 {
-  "name": "(12)AnimeVision Test",
+  "name": "(13)AnimeVision Test",
   "version": "3.5.0",
   "description": "A Testing version of Dark Blue theme for vendetta with rosiecord-iconsax icon pack.",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#1a234e"],
+    "ANDROID_RIPPLE": ["#5E9EE6C4"],
     "TEXT_MUTED": ["#8294A8", "#8294A8", "#8294A8"],
     "TEXT_DANGER": ["#2161A9", "#2161A9", "#2161A9"],
     "TEXT_LINK": ["#459DFF", "#459DFF", "#459DFF"],
@@ -38,11 +38,11 @@
     "CHAT_BORDER": ["#ffee00"],
     "SPOILER_HIDDEN_BACKGROUND": ["#0e163b", "#0e163b", "#0e163b"],
     "KEYBOARD": ["#081240"],
-    "ACTIVITY_CARD_BACKGROUND": ["#00FF00", "#130a2e", "#130a2e"],
+    "ACTIVITY_CARD_BACKGROUND": ["#00FF00"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#1a234e", "#1a234e", "#1a234e"],
     "REDESIGN_ACTIVITY_CARD_BORDER": ["#2680E6"],
     "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": ["#00FF00"],
-    "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["#000000"],
+    "REDESIGN_BUTTON_PRIMARY_ALT_BORDER": ["#2680E6"],
     "CARD_PRIMARY_BG": ["#071240", "#071240", "#071240"],
     "CARD_PRIMARY_PRESSED_BG": ["#1a234e", "#1a234e", "#1a234e"],
     "CARD_SECONDARY_BG": ["#1a234e", "#1a234e", "#1a234e"],
@@ -52,7 +52,7 @@
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": ["#0e194f"],
     "REDESIGN_BUTTON_SECONDARY_ALT_BORDER": ["#bb00ff"],
     "REDESIGN_BUTTON_SECONDARY_BORDER": ["#2680E6"],
-    "BORDER_FAINT": ["#2680E6"],
+    "BORDER_FAINT": ["#00FF00"],
     "BORDER_STRONG": ["#1d63b3"],
     "BORDER_SUBTLE": ["##1d63b3"]
   },

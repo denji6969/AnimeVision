@@ -61,8 +61,6 @@ div.container__4f639:has(div.progressBarContainer__9b571) {
 {
   display: none !important;
 }
-
-/* My additions*/
 [class^="premiumTab"], /* Nitro settings tab*/
 #user-settings-cog-Discord_Nitro, /* Nitro settings right click entry */
 #user-settings-cog-Billing, /* Billing settings right click entry */
@@ -150,6 +148,6 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 
 
 /*User Popout fix*/
-.userPopoutOverlayBackground_d8afa4 {
+/* .userPopoutOverlayBackground_d8afa4 {
   max-height: 60vh;
-}
+} */

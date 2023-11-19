@@ -94,108 +94,24 @@
     opacity: 1;
   }
 }
-@keyframes cv-fade-to-1 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.1;
-  }
-}
-@keyframes cv-fade-to-2 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.2;
+@for $i from 1 to 10 {
+  @keyframes cv-fade-to-#{$i} {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: #{$i * 0.1};
+    }
   }
 }
-@keyframes cv-fade-to-3 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.3;
-  }
-}
-@keyframes cv-fade-to-4 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.4;
-  }
-}
-@keyframes cv-fade-to-5 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.5;
-  }
-}
-@keyframes cv-fade-to-6 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.6;
-  }
-}
-@keyframes cv-fade-to-7 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.7;
-  }
-}
-@keyframes cv-fade-to-8 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.8;
-  }
-}
-@keyframes cv-fade-to-9 {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0.9;
-  }
-}
-@keyframes cv-slide-top {
-  from {
-    top: 100%;
-  }
-  to {
-    top: 0;
-  }
-}
-@keyframes cv-slide-right {
-  from {
-    right: 100%;
-  }
-  to {
-    right: 0;
-  }
-}
-@keyframes cv-slide-bottom {
-  from {
-    bottom: 100%;
-  }
-  to {
-    bottom: 0;
-  }
-}
-@keyframes cv-slide-left {
-  from {
-    left: 100%;
-  }
-  to {
-    left: 0;
+@each $d in top, right, bottom, left {
+  @keyframes cv-slide-#{$d} {
+    from {
+      #{$d}: 100%;
+    }
+    to {
+      #{$d}: 0;
+    }
   }
 }
 @keyframes cv-channel-select {
@@ -205,12 +121,12 @@
   }
   to {
     right: 0;
-    background-color: var(--main-color);
+    background-color: $main-color;
   }
 }
 @keyframes cv-message-jump {
   from {
-    background: hsla(0deg, 0%, 100%, 0.3);
+    background: hsla(0, 0%, 100%, 0.3);
   }
   to {
     background: transparent;
@@ -247,10 +163,10 @@
 }
 @keyframes cv-spinner-glow {
   from {
-    filter: drop-shadow(0 0 3px var(--main-color));
+    filter: drop-shadow(0 0 3px $main-color);
   }
   to {
-    filter: drop-shadow(0 0 3px var(--main-color)) drop-shadow(0 0 15px var(--main-color));
+    filter: drop-shadow(0 0 3px $main-color) drop-shadow(0 0 15px $main-color);
   }
 }
 @keyframes cv-spinner-pulse {
@@ -325,23 +241,29 @@
 }
 @keyframes cv-shadow-pulse {
   0% {
-    box-shadow: 0 0 6px 2px var(--main-color);
+    box-shadow: 0 0 6px 2px $main-color;
   }
   50% {
-    box-shadow: 0 0 10px 2px var(--main-color);
+    box-shadow: 0 0 10px 2px $main-color;
   }
   100% {
-    box-shadow: 0 0 6px 2px var(--main-color);
+    box-shadow: 0 0 6px 2px $main-color;
   }
 }
 @keyframes cv-shake {
-  0%, 100% {
+  0%,
+  100% {
     transform: none;
   }
-  15%, 45%, 75% {
+  15%,
+  45%,
+  75% {
     transform: translate3d(-13px, -8px, 0px);
   }
-  30%, 60%, 90% {
+
+  30%,
+  60%,
+  90% {
     transform: translate3d(13px, 8px, 0px);
   }
 }

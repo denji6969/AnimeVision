@@ -1,5 +1,5 @@
 /* IMPORT CSS */
-@import url(https://raw.githubusercontent.com/denji6969/AnimeVision/main/AnimeVisionMain.css);
+@import url(https://clearvision.github.io/ClearVision-v6/main.css);
 @import url(https://raw.githubusercontent.com/denji6969/AnimeVision/main/custom.css);
 
 /* SETTINGS */
@@ -101,4 +101,16 @@
   --bd-blue: var(--main-color); /* betterdiscord main color [default: var(--main-color)] */
   --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
   --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
+  /* WATERMARK */
+.theme-dark .typeWindows__5fa63 > .wordmark__0d178:before {
+  content: "AnimeVision";
+  color: hsla(0deg, 0%, 100%, 0.7);
+  font-size: 14px;
+  text-shadow: 0 0 3px #000;
+}
+.theme-dark .typeWindows__5fa63 > .wordmark__0d178:after {
+  content: "v4.0.0";
+  color: hsla(0deg, 0%, 100%, 0.3);
+  font-family: var(--code-font);
+  font-size: 10px;
 }

@@ -1,5 +1,5 @@
 {
-  "name": "1AnimeVisionTest",
+  "name": "2AnimeVisionTest",
   "version": "3.5.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
@@ -66,7 +66,7 @@
     "PRIMARY_660": "#0f1530", 
     "PRIMARY_700": "#0e194f", 
     "PRIMARY_800": "#0e194f",
-    "PLUM_20": "#cba6f7",
+    "PLUM_20": "#0f1530",
     "BRAND_260": "#bcc1f9",
     "BRAND_360": "#2680E6",
     "BRAND_500": "#2680E6",

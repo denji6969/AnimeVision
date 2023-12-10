@@ -102,3 +102,7 @@
   --bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
   --bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
 }
+
+.spoilerMarkdownContent__2b8f8 {
+  background-color: #081240;
+}

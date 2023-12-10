@@ -106,3 +106,6 @@
 .spoilerMarkdownContent__2b8f8 {
   background-color: #081240;
 }
+.message__80c10.selected_fd9051, .mouse-mode.full-motion .message__80c10:hover {
+    background: #242780E6;
+}

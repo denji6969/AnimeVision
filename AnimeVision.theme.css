@@ -9,7 +9,7 @@
   --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #2780e6; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #2161a9; /* danger accent color (hex, rgb or hsl) [default: #982929] */
-  --url-color: #00FF00; /*The color of url links [default: var(--main-color)]*/
+  --url-color: #459DFF; /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
   --online-color: #23a459; /* online status color (hex, rgb or hsl) [default: #43b581] */
@@ -48,7 +48,7 @@
   --home-size: 40px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
-  --channel-unread: #FFFFFF; /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
+  --channel-unread: #e8f4fe; /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
   --channel-color: rgba(255, 255, 255, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
   --channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
   --muted-color: rgba(255, 255, 255, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/

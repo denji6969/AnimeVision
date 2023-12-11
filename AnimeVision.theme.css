@@ -105,3 +105,13 @@
 .spoilerMarkdownContent__2b8f8 {
   background-color: #081240;
 }
+/* If you are talking about a seperate color change if not then you open the Clearvision theme file and you should see the color customization and change the color from there */
+.theme-dark .wrapper_f46140 {
+    background-color: var(--hover-color);
+}
+/* To change the bot tag color */
+.theme-dark .botTag__4211a {
+    background: rgba(255,255,255,.1);
+    color: var(--main-color);
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
+}

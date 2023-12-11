@@ -107,7 +107,9 @@
 }
 /* Mention color */
 .theme-dark .wrapper_f46140 {
-    background-color: #2780e6;
+    background: rgba(255,255,255,.1);
+    color: var(--main-color);
+    text-shadow: 0 0 1px rgba(0,0,0,.3);
 }
 /* To change the bot tag color */
 .theme-dark .botTag__4211a {

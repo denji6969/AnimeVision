@@ -1,5 +1,5 @@
 {
-  "name": "TestAnimeVision",
+  "name": "1TestAnimeVision",
   "version": "3.5.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
@@ -20,6 +20,7 @@
     "BACKGROUND_TERTIARY": ["#111c4d"],
     "BACKGROUND_ACCENT": ["#2680E6"],
     "BACKGROUND_FLOATING": ["101a45"],
+    "BACKGROUND_MENTIONED": ["2680E6"],
     "BACKGROUND_MOBILE_PRIMARY": ["#0e163b"],
     "BACKGROUND_MOBILE_SECONDARY": ["#0f1530"],
     "BACKGROUND_NESTED_FLOATING": ["#0f1530"],

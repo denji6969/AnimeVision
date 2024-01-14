@@ -1,5 +1,5 @@
 {
-  "name": "6TestAnimeVision",
+  "name": "7TestAnimeVision",
   "version": "3.5.0",
   "description": "A Dark Blue theme for vendetta.",
   "authors": [
@@ -10,6 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#4E95E6EA"],
+    "TEXT_NORMAL": ["#dadee0"],
     "TEXT_MUTED": ["#8294A8"],
     "TEXT_DANGER": ["#2161A9"],
     "TEXT_LINK": ["#459DFF"],
@@ -58,8 +59,7 @@
   },
   "rawColors": {
     "PRIMARY_100": "#FFFFFF", 
-    "PRIMARY_200": "#FFFFFF",
-    "PRIMARY_230": "#9AC9FF",
+    "PRIMARY_200": "#FFFFFF", 
     "PRIMARY_300": "#FFFFFF", 
     "PRIMARY_360": "#8F9298", 
     "PRIMARY_400": "#2680E6",

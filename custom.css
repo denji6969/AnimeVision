@@ -17,7 +17,7 @@
 .privateChannels__93473 [href="/store"],[href="/library"],[href="/activities"] { display: none; }
 
 /*Discord Mobile Toggles*/
-.container__871ba .slider__41d94 > svg > path, .container__871ba .slider__41d94 > rect { fill: white !important; } .container__871ba .slider__41d94 { margin-top: -2px; margin-left: -4px; } .container__871ba.checked__6bdb0 .slider__41d94 { margin-left: 0; } .container__871ba.checked__6bdb0 .slider__41d94 > svg > path, .container__871ba.checked__6bdb0 .slider__41d94 > rect { fill: var(--brand-experiment-300) !important; } .container__871ba:has(.slider__41d94) { height: 14px; width: 28px !important; } .container__871ba.checked__6bdb0:has(.slider__41d94) { background-color: var(--brand-experiment) !important; }
+/*.container__871ba .slider__41d94 > svg > path, .container__871ba .slider__41d94 > rect { fill: white !important; } .container__871ba .slider__41d94 { margin-top: -2px; margin-left: -4px; } .container__871ba.checked__6bdb0 .slider__41d94 { margin-left: 0; } .container__871ba.checked__6bdb0 .slider__41d94 > svg > path, .container__871ba.checked__6bdb0 .slider__41d94 > rect { fill: var(--brand-experiment-300) !important; } .container__871ba:has(.slider__41d94) { height: 14px; width: 28px !important; } .container__871ba.checked__6bdb0:has(.slider__41d94) { background-color: var(--brand-experiment) !important; }*/
 
 /*Remove Blue Highlight thing on touch*/
 * {
@@ -101,7 +101,7 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 }
 
 /* Discord Mobile Jump To Present Button */
-[class*="jumpToPresentBar"] {
+/*[class*="jumpToPresentBar"] {
     display: contents;
 }
 [class*="jumpToPresentBar"] > button:first-child {
@@ -142,7 +142,7 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 [class*="jumpToPresentBar"]:hover > button svg {
     margin-right: 2px;
     margin-left: -6px;
-}
+}*/
 
 /* Mobile Profile Border lines(not working)*/
 

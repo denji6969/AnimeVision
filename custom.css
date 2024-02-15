@@ -1,8 +1,8 @@
 /*Download Discord on Web*/
-[data-list-id="guildsnav"] > [dir="ltr"] > :nth-last-child(3),
+/*[data-list-id="guildsnav"] > [dir="ltr"] > :nth-last-child(3),
 [data-list-id="guildsnav"] > [dir="ltr"] > :nth-last-child(2) {
   display: none;
-}
+}*/
 
 /*:pleading_face:*/
 [src="/assets/e63c47fd56c7ed1e4552974baaef4b4e.svg"], button[data-type="emoji"][data-name="pleading_face"] > div {

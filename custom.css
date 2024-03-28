@@ -153,11 +153,11 @@ a[href*="/snowsgiving"], [class^="customizationSection"] > [class^="limitedFeatu
 } */
 
 /*Bouncey buttons*/
-button, 
+/*button, 
 [role="button"],
 a[href^='/channels'],
 [aria-label="Servers"] [class^=listItem] {
   &:hover { filter: brightness(0.95); scale: 0.95; }
   &:active { filter: brightness(0.9); scale: 1.05; }
   transition: scale 0.6s cubic-bezier(0.34, 5, 0.64, 1);
-}
+}*/
